@@ -1,22 +1,22 @@
 # 홍진화 | Gina Hong 👋
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=500&lines=ML+Ops+%7C+Reinforcement+Learning;AI+%26+Robotics+Enthusiast;Creative+Problem+Solver;Entrepreneur+at+Heart" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=500&lines=MLOps+%7C+Reinforcement+Learning;AI+%26+Robotics+Enthusiast;Creative+Problem+Solver;Entrepreneur+at+Heart" alt="Typing SVG" />
 </div>
 
 ## About Me 👨‍💻
 
 ### 🧠 **Analytical Thinker & Problem Solver**
-I'm a creative thinker who excels at developing innovative solutions to complex problems. With a strong analytical mindset cultivated through years of academic excellence, I consistently tackle challenges with logical reasoning and determination.
+I'm a creative problem solver who thrives on developing innovative solutions to complex challenges. My approach combines analytical reasoning with creative thinking - I enjoy identifying patterns and connections others might miss. With a background in mathematics and computer science from an early age, I've developed a unique perspective that allows me to approach problems from multiple angles.
 
 ### 🚀 **Entrepreneurial Spirit**
-My passion for entrepreneurship drives me to create systems that generate value efficiently. I've founded multiple ventures including educational tech platforms, demonstrating my ability to transform ideas into real-world solutions. Through these experiences, I've developed a keen understanding of business fundamentals and team leadership.
+I transform ideas into real-world solutions by creating systems that generate sustainable value. Through founding ventures like Puripuri (AI education) and Custometic (AI beauty), I've learned to balance technical feasibility with business viability while leading cross-functional teams. I believe the most valuable businesses solve meaningful problems in efficient, scalable ways.
 
 ### 🔍 **Research & Innovation**
-I've published research on innovative technologies, exploring how decentralized systems can enhance AI frameworks. My award-winning paper "PCV: PoS for Content Validation in Web3.0 Platform" received the Excellent Paper Award from the Korean Blockchain Society, demonstrating my ability to identify practical applications for cutting-edge technology while focusing on real-world problem-solving.
+My research explores how decentralized systems and artificial intelligence can work together to create more trustworthy technological frameworks. My award-winning paper "PCV: PoS for Content Validation in Web3.0 Platform" demonstrated a mathematical approach to enhancing information reliability through consensus mechanisms. I'm particularly interested in how reward-based systems can create balanced incentives across technological ecosystems.
 
 ### 🌱 **Continuous Learner**
-Having navigated through various fields from chemistry to computer science, I've developed resilience and adaptability. I believe in continuous growth and pushing beyond comfort zones to expand my knowledge and skills.
+Starting with early interests in chemistry and physics, I've navigated through cryptography, digital forensics, and now AI and robotics. This interdisciplinary journey has taught me that core principles like reward-based learning appear across domains - whether in blockchain consensus, reinforcement learning algorithms, or human psychology. I believe these fundamental patterns hold the key to developing truly intelligent systems.
 
 ---
 
@@ -27,7 +27,7 @@ Having navigated through various fields from chemistry to computer science, I've
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### AI/ML Libraries
+### AI/ML Libraries & Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -36,6 +36,7 @@ Having navigated through various fields from chemistry to computer science, I've
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -50,10 +51,22 @@ Having navigated through various fields from chemistry to computer science, I've
 
 ## 🔥 Areas of Interest
 
-I'm passionate about the intersection of AI and practical systems. My research interests focus on developing intelligent systems that can interact with the physical world through reinforcement learning, robust hardware implementation, and efficient operations.
+My research and career interests center on the intersection of AI intelligence and practical implementation through:
+
+### MLOps & System Architecture
+Building robust systems that enable AI to operate reliably at scale is critical for real-world applications. I'm fascinated by the infrastructure that allows models to function in production environments.
+
+### Reinforcement Learning
+I believe reinforcement learning represents the fundamental principles of intelligence through reward-based mechanisms. The way systems learn to maximize rewards mirrors core learning patterns across nature.
+
+### Operating Systems for AI
+How we organize computational resources fundamentally affects AI capability. Just as the human brain needs efficient "operating systems" to manage cognitive resources, AI systems need specialized architectures.
+
+### Robotics & Physical AI
+Intelligent systems that can interact with the physical world represent the next frontier. The integration of perception, decision-making, and physical action creates uniquely challenging problems.
 
 ### Why These Areas?
-I believe reinforcement learning represents the fundamental principles of intelligence through reward-based mechanisms. Combined with robust hardware systems and operational excellence, these technologies can create adaptive, autonomous systems that solve real-world problems efficiently.
+These fields together represent the complete stack needed for truly intelligent autonomous systems. From the theoretical foundations of learning to practical implementation in physical systems, each component plays a critical role in advancing useful AI.
 
 ---
 
@@ -84,26 +97,28 @@ I believe reinforcement learning represents the fundamental principles of intell
 ### 🔍 Selected Projects
 
 #### 📝 PCV: PoS for Content Validation in Web3.0 Platform
-- Designed and developed a new architecture using blockchain technology to validate online content reliability
-- Created mathematical models to demonstrate high accuracy through consensus mechanisms
-- First author of a research paper that received the Excellent Paper Award from the Korean Blockchain Society
-- Explored innovative approaches to create more trustworthy information sharing systems
+- Designed a blockchain-based architecture to improve online content reliability through consensus mechanisms
+- Developed mathematical models showing how incentive-aligned validation creates high-accuracy information systems
+- Received the Excellent Paper Award from the Korean Blockchain Society as first author
+- Created a framework that balances decentralization with information quality assurance
 
-#### 🤖 What2Eat (Dr. Yongwoo Bot)
-- Developed an AI assistant using Knowledge-Grounded Generation with Solar API
-- Created comprehensive technical documentation and system architecture
-- Led the team as PM while implementing the AI chatbot component for personalized diet plans
+#### 🤖 What2Eat (Dr. Yongwoo Bot) [[GitHub]](https://github.com/G-Hong/What2Eat)
+- Developed an AI assistant using Knowledge-Grounded Generation with Solar API for personalized diet plans
+- Implemented LLM-based dietary recommendation system that analyzes personal constraints and preferences
+- Created comprehensive technical documentation including system architecture, API specifications, and data flow diagrams
+- Led the team as PM while implementing the AI chatbot component with contextual conversation capabilities
 
 #### 📊 Puripuri - AI Education Platform
-- Founded and led development of an AI-powered educational tool that analyzes student work to provide personalized hints
-- Implemented systems for collecting and utilizing educational data with continuous improvement via feedback loops
-- Developed effective team management and transparent business operations systems
+- Founded an AI-powered educational tool that analyzes student work to provide personalized learning hints
+- Implemented systems for collecting and analyzing educational data with continuous improvement via feedback loops
+- Developed organizational frameworks for efficient team management and transparent business operations
 - Awarded Grand Prize in the DIC 2024 Startup Competition
 
 #### 💡 Custometic - AI Beauty Recommendation
-- Conceptualized an AI system that analyzes facial features to recommend personalized makeup techniques
+- Conceptualized an AI system analyzing facial features to recommend personalized makeup techniques
 - Created feature extraction system using Stasm algorithm and AI-based face modeling
 - Developed personalized AI solution focused on individuality over trends
+- Designed a system architecture balancing computational efficiency with recommendation quality
 
 #### 🔥 Fuel Pellet Production Service
 - Developed renewable energy solution using food waste and kenaf for solid fuel pellets
@@ -115,6 +130,7 @@ I believe reinforcement learning represents the fundamental principles of intell
 - Developed LLM-based chatbot for emotional support with CBT-inspired dialogues
 - Integrated sentiment analysis and prompt engineering for empathetic conversation
 - Led both project management and AI development roles
+- Created a system focused on maintaining therapeutic consistency across interactions
 
 #### 📱 KISA AI Security Framework
 - Contributed to the development of standardized security practices for AI systems
@@ -134,9 +150,11 @@ I believe reinforcement learning represents the fundamental principles of intell
   - Leading AI study sessions and mini projects
   - Supporting club operations and event planning
 
-- **Member, TAVE Club** (2024-2025)
-  - Participated in AI study sessions and team-based projects
-  - Collaborated on exploring AI applications and sharing technical knowledge
+- **Team Lead, TAVE Club** (2024-2025)
+  - Led NLP/LLM study group, designing curriculum and guiding team projects [[GitHub]](https://github.com/G-Hong/NLP_study)
+  - Organized and structured sentiment analysis projects using Korean movie reviews dataset
+  - Conducted RLHF (Reinforcement Learning from Human Feedback) paper study group [[GitHub]](https://github.com/G-Hong/RLHF_Study)
+  - Implemented study methodology combining theoretical learning with practical mini-projects and code reviews
 
 - **Research Assistant under Prof. Seng Phil Hong** (2024)
   - Worked on government projects for emerging technology frameworks and AI security
@@ -150,6 +168,12 @@ I believe reinforcement learning represents the fundamental principles of intell
 - **Financial Security Camp** (2022)
   - Completed curriculum with lectures and team projects related to financial security
   - Gained practical knowledge in security protocols and systems
+
+- **Academic Projects**
+  - Completed Machine Learning course project on predictive modeling for bank loan approvals [[GitHub]](https://github.com/G-Hong/ML_term_project)
+  - Built transformer-based NLP models for text classification and sentiment analysis
+  - Applied reinforcement learning concepts in various simulation environments
+  - Designed and implemented neural network architectures for different problem domains
 
 ---
 
@@ -167,9 +191,22 @@ I believe reinforcement learning represents the fundamental principles of intell
 
 ## 🌱 Future Goals
 
-I aim to further develop my expertise in MLOps, reinforcement learning, and robotics by pursuing advanced education in the United States. After building industry experience for 2-3 years, I plan to launch a venture focused on practical AI applications that solve meaningful problems.
+My journey aims to blend technical expertise with entrepreneurial vision. After pursuing advanced education in MLOps, reinforcement learning, and robotics systems, I plan to gain 2-3 years of industry experience before launching a venture focused on intelligent autonomous systems.
 
-My ultimate vision is to become both a technical expert and business leader in the AI field, using technology to liberate people from unproductive work and create systems that generate sustainable value.
+I believe the future of AI lies in creating systems that liberate people from unproductive work while generating sustainable value. My goal is to develop AI architectures that combine robust operational reliability with genuinely intelligent decision-making – building technology that augments human capability rather than simply automating existing processes.
+
+---
+
+## 💭 My Philosophy on Intelligence and Systems
+
+I see strong parallels between biological intelligence, reinforcement learning, and blockchain governance:
+
+- All intelligent systems fundamentally operate on reward mechanisms
+- The most robust systems have aligned incentives where individual and collective benefits harmonize
+- Operating system efficiency is as important as raw computational power
+- True intelligence emerges from the interaction between reward-seeking, continuous learning, and environmental feedback
+
+This unified view informs my approach to both technical development and organizational design – creating systems where the parts work together to produce more than the sum of their components.
 
 ---
 
