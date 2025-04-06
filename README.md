@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="AI & Robotics" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB4Y3JmN2JoMTJ4d3YxY2hpeDFmZ29qa251a2ttNzJibDZtdjJyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFngIYWIg2QJgQQTMf/giphy.gif">
+<img align="right" alt="AI & Robotics" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ4azRjeWI3dmYyM3JoNGhqNHB3cmJibHNpczA2M3d4NHFrajliMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif">
 
 ### 🧠 **Analytical Thinker & Problem Solver**
 I develop innovative solutions for complex challenges by combining analytical reasoning with creative thinking. With a mathematics and computer science background, I approach problems from multiple angles to identify connections others might miss.
