@@ -66,7 +66,7 @@ I believe reinforcement learning represents the fundamental principles of intell
 - Created comprehensive technical documentation and system architecture
 - Led the team as PM while implementing the AI chatbot component
 
-#### 📊 Puripuri - AI Education Platform
+#### 📊 PuriPuri - AI Education Platform
 - Founded and led development of an AI-powered educational tool that analyzes student work to provide personalized hints
 - Implemented systems for collecting and utilizing educational data with continuous improvement via feedback loops
 - Developed effective team management and transparent business operations systems
