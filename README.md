@@ -151,7 +151,6 @@ These fields together represent the complete stack needed for truly intelligent 
 - **Team Lead, TAVE Club** (2024-2025)
   - Led NLP/LLM study group, designing curriculum and guiding team projects [[GitHub]](https://github.com/G-Hong/NLP_study)
   - Organized and structured sentiment analysis projects using Korean movie reviews dataset
-  - Conducted RLHF (Reinforcement Learning from Human Feedback) paper study group [[GitHub]](https://github.com/G-Hong/RLHF_Study)
   - Implemented study methodology combining theoretical learning with practical mini-projects and code reviews
 
 - **Research Assistant under Prof. Seng Phil Hong** (2024)
@@ -172,6 +171,7 @@ These fields together represent the complete stack needed for truly intelligent 
   - Built transformer-based NLP models for text classification and sentiment analysis
   - Applied reinforcement learning concepts in various simulation environments
   - Designed and implemented neural network architectures for different problem domains
+  - RLHF (Reinforcement Learning from Human Feedback) paper study [[GitHub]](https://github.com/G-Hong/RLHF_Study)
 
 ---
 
