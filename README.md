@@ -61,7 +61,7 @@ I believe reinforcement learning represents the fundamental principles of intell
 
 ### 🔍 Selected Projects
 
-#### 🤖 Park Yongwoo Diet Bot
+#### 🤖 What2Eat
 - Developed an AI assistant using Knowledge-Grounded Generation with Solar API
 - Created comprehensive technical documentation and system architecture
 - Led the team as PM while implementing the AI chatbot component
