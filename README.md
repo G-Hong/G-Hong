@@ -1,4 +1,4 @@
-# 홍진화 (Jinhwa Hong) 👋
+# 홍진화 | Gina Hong 👋
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=500&lines=ML+Ops+%7C+Reinforcement+Learning;AI+%26+Robotics+Enthusiast;Creative+Problem+Solver;Entrepreneur+at+Heart" alt="Typing SVG" />
@@ -50,8 +50,6 @@ Having navigated through various fields from chemistry to computer science, I've
 
 ## 🔥 Areas of Interest
 
-
-
 I'm passionate about the intersection of AI and practical systems. My research interests focus on developing intelligent systems that can interact with the physical world through reinforcement learning, robust hardware implementation, and efficient operations.
 
 ### Why These Areas?
@@ -61,13 +59,9 @@ I believe reinforcement learning represents the fundamental principles of intell
 
 ## 🌟 Projects & Experience
 
-
-
-
-
 ### 🔍 Selected Projects
 
-#### 🤖 What2Eat Diet Bot
+#### 🤖 What2Eat
 - Developed an AI assistant using Knowledge-Grounded Generation with Solar API
 - Created comprehensive technical documentation and system architecture
 - Led the team as PM while implementing the AI chatbot component
@@ -80,9 +74,8 @@ I believe reinforcement learning represents the fundamental principles of intell
 #### 💡 Custometic - AI Beauty Recommendation
 - Conceptualized an AI system that analyzes facial features to recommend personalized makeup techniques
 - Created feature extraction system to match users with optimal beauty products
-- Developed compelling presentation materials that effectively communicated technical concepts
 
-#### 📱 KISA AI Security Lifecycle Framework
+#### 📱 KISA AI Security Framework
 - Contributed to the development of standardized security practices for AI systems
 - Organized diverse research into cohesive policy frameworks
 - Structured comprehensive security lifecycle guidelines for AI applications
