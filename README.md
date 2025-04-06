@@ -1,4 +1,4 @@
-# 홍진화 (Gina Hong) 👋
+# 홍진화 | Gina Hong 👋
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=500&lines=ML+Ops+%7C+Reinforcement+Learning;AI+%26+Robotics+Enthusiast;Creative+Problem+Solver;Entrepreneur+at+Heart" alt="Typing SVG" />
