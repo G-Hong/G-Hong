@@ -13,7 +13,7 @@ I'm a creative thinker who excels at developing innovative solutions to complex 
 My passion for entrepreneurship drives me to create systems that generate value efficiently. I've founded multiple ventures including educational tech platforms, demonstrating my ability to transform ideas into real-world solutions. Through these experiences, I've developed a keen understanding of business fundamentals and team leadership.
 
 ### 🔍 **Research & Innovation**
-I've published research on innovative technologies, exploring how decentralized systems can enhance AI frameworks. My award-winning research demonstrates my ability to identify practical applications for cutting-edge technology while focusing on real-world problem-solving.
+I've published research on innovative technologies, exploring how decentralized systems can enhance AI frameworks. My award-winning paper "PCV: PoS for Content Validation in Web3.0 Platform" received the Excellent Paper Award from the Korean Blockchain Society, demonstrating my ability to identify practical applications for cutting-edge technology while focusing on real-world problem-solving.
 
 ### 🌱 **Continuous Learner**
 Having navigated through various fields from chemistry to computer science, I've developed resilience and adaptability. I believe in continuous growth and pushing beyond comfort zones to expand my knowledge and skills.
@@ -59,30 +59,37 @@ I believe reinforcement learning represents the fundamental principles of intell
 
 ## 🌟 Projects & Experience
 
-```
-gantt
-    dateFormat  YYYY-MM
-    title Project Timeline
-    
-    section Education & Research
-    Lab Research                   :2022-04, 2025-02
-    AI Framework Research          :2024-06, 2024-12
-    AI Security Lifecycle          :2024-06, 2024-12
-    
-    section Entrepreneurship
-    Uram (AI Education Platform)   :2021-10, 2021-11
-    E FOR YOU/Kenaff Pellet        :2022-09, 2023-05
-    Custometic (AI Beauty)         :2022-06, 2022-12
-    Puripuri (AI Education)        :2023-12, 2024-12
-    
-    section Projects
-    Meta Aquarium                  :2022-07, 2022-08
-    What2Eat                       :2024-11, 2025-01
-```
+### 🎓 Education & Research
+| Project | Timeline |
+|---------|----------|
+| Lab Research | 2022-04, 2025-02 |
+| PCV: PoS for Content Validation | 2022-09, 2022-11 |
+| AI Framework Research | 2024-06, 2024-12 |
+| AI Security Lifecycle | 2024-06, 2024-12 |
+
+### 🚀 Entrepreneurship
+| Project | Timeline |
+|---------|----------|
+| Uram (AI Education Platform) | 2021-10, 2021-11 |
+| E FOR YOU/Kenaff Pellet | 2022-09, 2023-05 |
+| Custometic (AI Beauty) | 2022-06, 2022-12 |
+| Puripuri (AI Education) | 2023-12, 2024-12 |
+
+### 💡 Projects
+| Project | Timeline |
+|---------|----------|
+| Meta Aquarium | 2022-07, 2022-08 |
+| What2Eat | 2024-11, 2025-01 |
 
 ### 🔍 Selected Projects
 
-#### 🤖 What2Eat
+#### 📝 PCV: PoS for Content Validation in Web3.0 Platform
+- Designed and developed a new architecture using blockchain technology to validate online content reliability
+- Created mathematical models to demonstrate high accuracy through consensus mechanisms
+- First author of a research paper that received the Excellent Paper Award from the Korean Blockchain Society
+- Explored innovative approaches to create more trustworthy information sharing systems
+
+#### 🤖 What2Eat (Dr. Yongwoo Bot)
 - Developed an AI assistant using Knowledge-Grounded Generation with Solar API
 - Created comprehensive technical documentation and system architecture
 - Led the team as PM while implementing the AI chatbot component for personalized diet plans
@@ -135,20 +142,26 @@ gantt
   - Worked on government projects for emerging technology frameworks and AI security
   - Contributed to policy research on advanced technological integration
 
-- **Undergraduate Research Assistant, Intelligent Engineering Lab** (2022-2025)
+- **Undergraduate Research Assistant, Intelligent Blockchain Engineering Lab** (2022-2025)
   - Studied various AI models and their applications
   - Developed technical knowledge through research paper analysis and hands-on projects
+  - Participated in blockchain research and implementation projects
+
+- **Financial Security Camp** (2022)
+  - Completed curriculum with lectures and team projects related to financial security
+  - Gained practical knowledge in security protocols and systems
 
 ---
 
 ## 🏅 Awards & Recognitions
 
-- 2022 Fall Korean Blockchain Society – Excellent Paper Award
+- 2022 Fall Korean Blockchain Society – Excellent Paper Award for "PCV: PoS for Content Validation"
 - 2022 Social Problem-Solving Business Idea Competition – 4th Place
-- 2022 Science Belt Startup Growth Support Program – Selected for 2nd cohort
-- 2022 Carbon Industry Ecosystem Formation and Dissemination Project
+- 2022 Science Belt Startup Growth Support Program – Selected for 2nd cohort (KRW 20M support)
+- 2022 Carbon Industry Ecosystem Formation and Dissemination Project (KRW 6M prize)
+- 2022 LINC 3.0 Startup Club – Completed entrepreneurship theory course (KRW 2M prize)
 - 2024 Opus Startup School IR Pitch Competition – Encouragement Prize
-- 2024 DIC Startup Competition – Grand Prize, DMZConet Chairman Award
+- 2024 DIC Startup Competition – Grand Prize, DMZConet Chairman Award (KRW 1M prize)
 
 ---
 
