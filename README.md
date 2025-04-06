@@ -4,7 +4,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gina%20Hong&fontSize=90&fontAlign=50&fontAlignY=40)
 
-  ### *"Evolving Innovation, Unwavering Execution"*
+  ### *"Evolving Innovation & Unwavering Execution"*
   
   [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/G-Hong)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gina-hong-414092269/)
