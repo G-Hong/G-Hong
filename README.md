@@ -1,4 +1,4 @@
-# 홍진화 | Gina Hong 👋
+# 홍진화 (Jinhwa Hong) 👋
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=500&lines=ML+Ops+%7C+Reinforcement+Learning;AI+%26+Robotics+Enthusiast;Creative+Problem+Solver;Entrepreneur+at+Heart" alt="Typing SVG" />
@@ -50,6 +50,8 @@ Having navigated through various fields from chemistry to computer science, I've
 
 ## 🔥 Areas of Interest
 
+
+
 I'm passionate about the intersection of AI and practical systems. My research interests focus on developing intelligent systems that can interact with the physical world through reinforcement learning, robust hardware implementation, and efficient operations.
 
 ### Why These Areas?
@@ -59,14 +61,18 @@ I believe reinforcement learning represents the fundamental principles of intell
 
 ## 🌟 Projects & Experience
 
+
+
+
+
 ### 🔍 Selected Projects
 
-#### 🤖 What2Eat
+#### 🤖 What2Eat Diet Bot
 - Developed an AI assistant using Knowledge-Grounded Generation with Solar API
 - Created comprehensive technical documentation and system architecture
 - Led the team as PM while implementing the AI chatbot component
 
-#### 📊 PuriPuri - AI Education Platform
+#### 📊 Puripuri - AI Education Platform
 - Founded and led development of an AI-powered educational tool that analyzes student work to provide personalized hints
 - Implemented systems for collecting and utilizing educational data with continuous improvement via feedback loops
 - Developed effective team management and transparent business operations systems
