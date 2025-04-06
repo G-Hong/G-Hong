@@ -50,30 +50,6 @@ Having navigated through various fields from chemistry to computer science, I've
 
 ## 🔥 Areas of Interest
 
-```mermaid
-mindmap
-  root((Core Interests))
-    (MLOps)
-      Cloud Infrastructure
-      Model Deployment
-      CI/CD Pipelines
-      Performance Monitoring
-    (Reinforcement Learning)
-      Multi-agent Systems
-      Deep RL
-      Reward Optimization
-      Policy Gradients
-    (Robotics)
-      Autonomous Systems
-      Sensor Integration
-      Motion Planning
-      Human-Robot Interaction
-    (Hardware/OS)
-      System Optimization
-      Embedded Systems
-      Real-time Computing
-      Resource Management
-
 I'm passionate about the intersection of AI and practical systems. My research interests focus on developing intelligent systems that can interact with the physical world through reinforcement learning, robust hardware implementation, and efficient operations.
 
 ### Why These Areas?
