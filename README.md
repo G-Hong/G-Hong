@@ -50,7 +50,7 @@ Having navigated through various fields from chemistry to computer science, I've
 
 ## 🔥 Areas of Interest
 
-```
+```mermaid
 mindmap
   root((Core Interests))
     (MLOps)
@@ -73,7 +73,6 @@ mindmap
       Embedded Systems
       Real-time Computing
       Resource Management
-```
 
 I'm passionate about the intersection of AI and practical systems. My research interests focus on developing intelligent systems that can interact with the physical world through reinforcement learning, robust hardware implementation, and efficient operations.
 
