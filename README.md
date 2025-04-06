@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gina%20Hong&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gina%20Hong&fontSize=90&fontAlign=50&fontAlignY=40)
 
   ### *"Evolving Innovation, Unwavering Execution"*
   
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="AI & Robotics" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ4azRjeWI3dmYyM3JoNGhqNHB3cmJibHNpczA2M3d4NHFrajliMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif">
+<img align="right" alt="AI & Robotics" width="380" style="margin-left: 20px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ4azRjeWI3dmYyM3JoNGhqNHB3cmJibHNpczA2M3d4NHFrajliMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif">
 
 ### 🧠 **Analytical Thinker & Problem Solver**
 I develop innovative solutions for complex challenges by combining analytical reasoning with creative thinking. With a mathematics and computer science background, I approach problems from multiple angles to identify connections others might miss.
