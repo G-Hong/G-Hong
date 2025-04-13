@@ -110,7 +110,7 @@ These fields together represent the complete stack needed for truly intelligent 
 
 ### 🔍 Selected Projects
 
-#### 📝 PCV: PoS for Content Validation in Web3.0 Platform
+#### 📝 PCV: PoS for Content Validation in Web3.0 Platform [[GitHub]](https://github.com/G-Hong/PCV-PoS-for-Content-Validation-in-Web3.0-Platform)
 - Designed and developed a blockchain-based architecture for improving online content reliability through consensus mechanisms
 - Mathematically demonstrated how incentive-aligned validation creates high-accuracy information systems 
 - Received the Excellent Paper Award from the Korean Blockchain Society as first author
