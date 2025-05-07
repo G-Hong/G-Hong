@@ -126,7 +126,7 @@ These fields together represent the complete stack needed for truly intelligent 
 - **Tools Selection**: Chose Solar API over alternatives for its superior context handling and faster response time
 - **Contribution**: Led as PM (100%), developed the core AI conversation system using Solar API (80%), designed system architecture (70%)
 
-#### 📊 Puripuri - AI Education Platform
+#### 📊 Puripuri - AI Education Platform [[GitHub]](https://github.com/G-Hong/PuriPuri)
 - Founded an AI-powered educational platform that analyzes student work to provide personalized learning hints
 - Implemented systems for collecting and analyzing educational data with continuous improvement via feedback loops
 - **Technical Challenge**: Overcame content development bottlenecks by creating modular, reusable learning components
