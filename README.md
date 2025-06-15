@@ -1,5 +1,7 @@
 # 홍진화 | Gina Hong 👋
 
+//뒤에 적은 Robust sys, operating sys 관련 내용 앞으로 옮기기
+
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gina%20Hong&fontSize=90&fontAlign=50&fontAlignY=40)
