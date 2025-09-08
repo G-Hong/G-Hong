@@ -1,19 +1,17 @@
 # 홍진화 | Gina Hong 👋
 
-//뒤에 적은 Robust sys, operating sys 관련 내용 앞으로 옮기기
-
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gina%20Hong&fontSize=90&fontAlign=50&fontAlignY=40)
 
-  ### *"Evolving Innovation & Unwavering Execution"*
+  ### *"Architecting the Future of Autonomous Systems"*
   
   [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/G-Hong)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gina-hong-414092269/)
   [![Email Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ghong@nexodim.com)
 
   <div style="text-align: center; width: 100%;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=500&lines=MLOps+%7C+Reinforcement+Learning;AI+%26+Robotics+Enthusiast;Creative+Problem+Solver;Technical+Innovator&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=500&lines=MLOps+%7C+Reinforcement+Learning;AI+Systems+%26+Operating+Systems;Robotics+%26+Autonomous+Systems;Technical+Innovator&center=true" alt="Typing SVG" />
   </div>
 </div>
 
@@ -21,17 +19,9 @@
 
 <img align="right" alt="AI & Robotics" width="380" style="margin-left: 20px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ4azRjeWI3dmYyM3JoNGhqNHB3cmJibHNpczA2M3d4NHFrajliMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif">
 
-### 🧠 **Analytical Thinker & Problem Solver**
-I develop innovative solutions for complex challenges by combining analytical reasoning with creative thinking. With a mathematics and computer science background, I approach problems from multiple angles to identify connections others might miss.
+I design and build **robust, scalable systems** that bring AI models from research labs into real-world interactions. My interdisciplinary journey from chemistry to cryptography to AI has revealed how fundamental principles like reward-based learning span across domains. This insight drives my focus on creating systems that don't just work—they're **reliable, scalable, and truly intelligent**.
 
-### 🚀 **Project Leadership & Implementation**
-I transform ideas into real-world solutions by balancing technical feasibility with practical implementation. My experience leading projects like 'PuriPuri'(AI education) and participating in research initiatives has developed my ability to coordinate cross-functional teams while maintaining focus on delivering tangible results.
-
-### 🔍 **Research & Technical Innovation**
-My research explores how advanced systems can create more trustworthy technological frameworks. My award-winning paper "PCV: PoS for Content Validation" demonstrated mathematical approaches to enhancing information reliability, showing my ability to apply theoretical concepts to practical problems.
-
-### 🌱 **Continuous Learner**
-My interdisciplinary journey from chemistry to cryptography to AI has taught me that fundamental patterns like reward-based learning appear across domains - whether in blockchain consensus or reinforcement learning algorithms.
+Through entrepreneurial projects like 'PuriPuri' (AI education), I've developed execution skills that turn ideas into reality. My research on 'PCV' demonstrated analytical capabilities in mathematically proving system reliability. My goal is to combine these strengths as an engineer who bridges **theoretical depth with practical implementation** to shape the future of **autonomous systems**.
 
 ## 🛠️ Tech Stack
 
@@ -67,24 +57,23 @@ My interdisciplinary journey from chemistry to cryptography to AI has taught me 
 </p>
 </div>
 
-## 🔥 Areas of Interest
+## 🔥 Core Focus: AI Systems for Robotics
 
-My research and career interests center on the intersection of AI intelligence and practical implementation through:
+My research centers on building the complete technology stack needed for intelligent autonomous systems, approached through three key layers:
 
-### MLOps & System Architecture
-Building robust systems that enable AI to operate reliably at scale is critical for real-world applications. I'm fascinated by the infrastructure that allows models to function in production environments.
+### **LAYER 1: Foundation**
+#### 🤖 AI Systems & Operating Systems
+System performance is determined by its underlying OS and architecture. I focus on next-generation OS design that efficiently manages AI computational resources and ensures real-time reliability for robotics applications.
 
-### Reinforcement Learning
-I believe reinforcement learning represents the fundamental principles of intelligence through reward-based mechanisms. The way systems learn to maximize rewards mirrors core learning patterns across nature.
+### **LAYER 2: Scalability**
+#### 🚀 MLOps & System Architecture  
+Even brilliant models are worthless without stable deployment and management. I specialize in MLOps pipelines and robust architectures that deploy, monitor, and update AI models across large robot fleets.
 
-### Operating Systems for AI
-How we organize computational resources fundamentally affects AI capability. Just as the human brain needs efficient "operating systems" to manage cognitive resources, AI systems need specialized architectures.
+### **LAYER 3: Intelligence**
+#### 🧠 Reinforcement Learning
+RL explores intelligence through reward mechanisms—the most fundamental approach to learning. I research algorithms that enable robots to learn optimal behaviors through physical world interactions.
 
-### Robotics & Physical AI
-Intelligent systems that can interact with the physical world represent the next frontier. The integration of perception, decision-making, and physical action creates uniquely challenging problems.
-
-### Why These Areas?
-These fields together represent the complete stack needed for truly intelligent autonomous systems. From the theoretical foundations of learning to practical implementation in physical systems, each component plays a critical role in advancing useful AI.
+This layered approach allows me to tackle robotics challenges with a **holistic perspective** spanning from hardware-level systems to real applications.
 
 ## 🌟 Projects & Experience
 
@@ -167,20 +156,20 @@ These fields together represent the complete stack needed for truly intelligent 
 
 ## 🌱 Future Goals
 
-My career path focuses on developing deep technical expertise in AI systems. After pursuing advanced education in MLOps, reinforcement learning, and robotics systems, I aim to grow within innovative organizations where I can contribute to cutting-edge AI development while continuously expanding my skills.
+I focus on developing deep technical expertise in AI systems for autonomous applications. After pursuing advanced education in MLOps, reinforcement learning, and robotics systems, I aim to contribute to **next-generation operating systems for autonomous agents** and establish **best practices for MLOps in robotics**.
 
-I believe AI's future lies in creating systems that augment human capabilities and generate sustainable value. My long-term goal is to help develop AI architectures that combine robust operational reliability with intelligent decision-making, whether as part of an established organization or eventually applying this expertise to solve meaningful problems through new ventures.
+My long-term goal is leading development of AI architectures that combine robust operational reliability with intelligent decision-making, solving meaningful problems through ventures built on strong technical foundations.
 
-## 💭 My Philosophy on Intelligence and Systems
+## 💭 Philosophy on Intelligence & Systems
 
-I see strong parallels between biological intelligence, reinforcement learning, and blockchain governance:
+I see strong parallels between biological intelligence, reinforcement learning, and system design:
 
-- Intelligent systems fundamentally operate on reward mechanisms
-- Robust systems have aligned incentives where individual and collective benefits harmonize
-- Operating system efficiency is as important as raw computational power
-- True intelligence emerges from the interaction between reward-seeking, continuous learning, and environmental feedback
+- **Operating system efficiency** is as important as raw computational power
+- **Robust systems** align individual and collective benefits harmoniously  
+- **Intelligent systems** fundamentally operate through reward mechanisms
+- **True intelligence** emerges from reward-seeking, continuous learning, and environmental feedback
 
-This unified view informs my approach to both technical development and organizational design.
+This unified view guides my approach to creating autonomous systems that are intelligent, reliable, and scalable.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jinyhong&style=flat-square&color=blue" alt=""/>
