@@ -4,14 +4,14 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gina%20Hong&fontSize=90&fontAlign=50&fontAlignY=40)
 
-  ### *"Architecting the Future of Autonomous Systems"*
+  ### *"Building the Operating Systems for Intelligent Machines"*
   
   [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/G-Hong)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gina-hong-414092269/)
   [![Email Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ghong@nexodim.com)
 
   <div style="text-align: center; width: 100%;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=500&lines=MLOps+%7C+Reinforcement+Learning;AI+Systems+%26+Operating+Systems;Robotics+%26+Autonomous+Systems;Technical+Innovator&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=500&lines=Operating+Systems+%7C+RTOS;Systems+Software+for+Robotics;Embedded+Systems+%26+CODES;Real-Time+Performance+Optimization&center=true" alt="Typing SVG" />
   </div>
 </div>
 
@@ -19,9 +19,11 @@
 
 <img align="right" alt="AI & Robotics" width="380" style="margin-left: 20px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ4azRjeWI3dmYyM3JoNGhqNHB3cmJibHNpczA2M3d4NHFrajliMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif">
 
-I design and build **robust, scalable systems** that bring AI models from research labs into real-world interactions. My interdisciplinary journey from chemistry to cryptography to AI has revealed how fundamental principles like reward-based learning span across domains. This insight drives my focus on creating systems that don't just work—they're **reliable, scalable, and truly intelligent**.
+I build the 'brains' of intelligent machines. My goal is to become a **systems software engineer** specializing in **embedded systems**, **operating systems (OS/RTOS)**, and **performance optimization** for edge devices like **NVIDIA Jetson**.
 
-Through entrepreneurial projects like 'PuriPuri' (AI education), I've developed execution skills that turn ideas into reality. My research on 'PCV' demonstrated analytical capabilities in mathematically proving system reliability. My goal is to combine these strengths as an engineer who bridges **theoretical depth with practical implementation** to shape the future of **autonomous systems**.
+I'm currently a Research Assistant at PyBrain, where I'm developing a robot that grasps objects using natural language commands through VLA (Vision-Language-Action) models. In this work, I tackle **latency and efficiency challenges at the system level**—implementing **Real-Time ROS** and optimizing the Linux kernel to make heavy AI models run effectively on resource-constrained hardware.
+
+To deepen my expertise in operating systems and **hardware-software co-design (CODES)**, I'm preparing for an MSCS program starting Fall 2026. I'm actively seeking internship opportunities in systems software or embedded engineering for 2027.
 
 ## 🛠️ Tech Stack
 
@@ -34,142 +36,124 @@ Through entrepreneurial projects like 'PuriPuri' (AI education), I've developed 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-### AI/ML Libraries & Frameworks
+### Systems & Tools
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson"/>
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
+### AI/ML Libraries
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 </div>
 
-## 🔥 Core Focus: AI Systems for Robotics
+## 🔥 Core Focus: The Robot Brain Stack
 
-My research centers on building the complete technology stack needed for intelligent autonomous systems, approached through three key layers:
+I approach robotics challenges through three interconnected layers, with my expertise focused on making AI models run efficiently on real hardware:
 
 ### **LAYER 1: Foundation**
-#### 🤖 AI Systems & Operating Systems
-System performance is determined by its underlying OS and architecture. I focus on next-generation OS design that efficiently manages AI computational resources and ensures real-time reliability for robotics applications.
+#### 🧠 Operating Systems & RTOS
+System performance starts at the OS level. I work on next-generation OS design that efficiently manages AI computational resources and ensures real-time reliability for robotics applications. This includes Linux kernel optimization, RTOS implementation, and scheduler tuning.
 
-### **LAYER 2: Scalability**
-#### 🚀 MLOps & System Architecture  
-Even brilliant models are worthless without stable deployment and management. I specialize in MLOps pipelines and robust architectures that deploy, monitor, and update AI models across large robot fleets.
+### **LAYER 2: Bridge**
+#### ⚙️ Hardware-Software Co-Design (CODES)
+Great software needs deep hardware understanding. I approach system optimization through CODES—designing software (OS) and hardware (like Jetson) to work together as one integrated system, not separate components.
 
-### **LAYER 3: Intelligence**
-#### 🧠 Reinforcement Learning
-RL explores intelligence through reward mechanisms—the most fundamental approach to learning. I research algorithms that enable robots to learn optimal behaviors through physical world interactions.
+### **LAYER 3: Application**
+#### 🚀 AI Models & Deployment
+The end goal is deploying AI models—VLA, reinforcement learning, MLOps—in production. My system-level expertise (Layers 1 & 2) enables running these heavy models on robots with low latency and high reliability.
 
-This layered approach allows me to tackle robotics challenges with a **holistic perspective** spanning from hardware-level systems to real applications.
+## 🌟 Current Work & Research
 
-## 🌟 Projects & Experience
+### 🤖 PyBrain - Research Assistant (Oct 2025 - Present)
+Developing a mobile manipulator that grasps objects using natural language commands via VLA models. This work exposed me to critical performance challenges in deploying AI on edge devices:
+- Analyzing latency issues when running VLA models on resource-constrained hardware (NVIDIA Jetson)
+- Studying the performance characteristics of ROS 2 for real-time robotic control
+- Benchmarking AI inference pipelines to identify system-level bottlenecks
+- This experience directly shaped my decision to pursue graduate studies in operating systems and embedded systems
 
-### 🎓 Education & Research
-| Project | Timeline |
-|---------|----------|
-| Lab Research | 2022-04 ~ 2025-02 |
-| PCV: PoS for Content Validation | 2022-09 ~ 2022-11 |
-| AI Framework Research | 2024-06 ~ 2024-12 |
-| AI Security Lifecycle | 2024-06 ~ 2024-12 |
+## 🔍 Selected Projects
 
-### 🚀 Entrepreneurship
-| Project | Timeline |
-|---------|----------|
-| Uram (AI Education Platform) | 2021-10 ~ 2021-11 |
-| E FOR YOU/Kenaff Pellet | 2022-09 ~ 2023-05 |
-| Custometic (AI Beauty) | 2022-06 ~ 2022-12 |
-| Puripuri (AI Education) | 2023-12 ~ 2024-12 |
+### 🤖 VLA-Based Robotic Grasping System (Oct 2025 - Present)
+At PyBrain, I'm developing a robot that grasps objects using natural language commands through VLA models. This hands-on experience revealed critical system-level bottlenecks that motivated my interest in OS and RTOS.
+- **Current Challenge**: The VLA model creates significant latency (2-3 seconds) on NVIDIA Jetson, making real-time object grasping unreliable
+- **What I'm Learning**: Profiling system performance, identifying bottlenecks in the AI inference pipeline, understanding hardware constraints
+- **Next Steps**: Planning to implement Real-Time ROS and explore Linux kernel optimization techniques to reduce latency
+- **Why This Matters**: This real-world problem drives my graduate school focus on operating systems and embedded systems for robotics
+- **Tools**: Python, ROS 2, NVIDIA Jetson, PyTorch, Performance Analysis
 
-### 💡 Projects
-| Project | Timeline |
-|---------|----------|
-| Meta Aquarium | 2022-07 ~ 2022-08 |
-| What2Eat | 2024-11 ~ 2025-01 |
+### 📝 PCV: PoS for Content Validation in Web3.0 [[GitHub]](https://github.com/G-Hong/PCV-PoS-for-Content-Validation-in-Web3.0-Platform)
+Designed a blockchain-based architecture for improving online content reliability through consensus mechanisms.
+- Mathematically demonstrated how incentive-aligned validation creates high-accuracy information systems
+- Received Excellent Paper Award from Korean Blockchain Society as first author
+- **Architecture**: Three-layer framework (data layer → validation layer → application layer) with PoS-based validator incentives
+- **Role**: Mathematical model development, architecture design, technical writing
 
-### 🔍 Selected Projects
+### 🤖 What2Eat (Dr. Yongwoo Bot) [[GitHub]](https://github.com/G-Hong/What2Eat)
+Built an AI assistant using Knowledge-Grounded Generation with Solar API for personalized diet recommendations.
+- Optimized context handling for dietary restrictions without token limitations
+- Created comprehensive technical documentation including system architecture and API specifications
+- **Architecture**: Dictionary-based classification approach for efficient food categorization
+- **Tools**: Solar API (chosen for superior context handling), Python, API integration
+- **Role**: Project management, core AI system development, architecture design
 
-#### 📝 PCV: PoS for Content Validation in Web3.0 Platform [[GitHub]](https://github.com/G-Hong/PCV-PoS-for-Content-Validation-in-Web3.0-Platform)
-- Designed and developed a blockchain-based architecture for improving online content reliability through consensus mechanisms
-- Mathematically demonstrated how incentive-aligned validation creates high-accuracy information systems 
-- Received the Excellent Paper Award from the Korean Blockchain Society as first author
-- **Technical Challenge**: Created a secure validation system that prevents collusion while maintaining decentralization
-- **Architecture**: Implemented a three-layer framework (data layer → validation layer → application layer) with PoS-based incentives for content validators
-- **Contribution**: Led mathematical model development (100%), architecture design (70%), and technical writing (70%)
+### 📊 Puripuri - AI Education Platform [[GitHub]](https://github.com/G-Hong/PuriPuri)
+Founded an AI-powered educational platform analyzing student work to provide personalized learning feedback.
+- Implemented computer vision system for processing handwritten student work
+- Built modular, reusable learning components to scale content production
+- **Architecture**: Three-tier system (student interface → CV analysis engine → feedback generation)
+- **Tools**: PyTorch (computer vision), Python
+- **Role**: Business operations, technical project management, investor relations
 
-#### 🤖 What2Eat (Dr. Yongwoo Bot) [[GitHub]](https://github.com/G-Hong/What2Eat)
-- Developed an AI assistant using Knowledge-Grounded Generation with Solar API for personalized diet plans
-- Created comprehensive technical documentation including system architecture, API specifications, and data flow diagrams
-- **Technical Challenge**: Optimized large context handling for dietary restrictions and preferences without token limitations
-- **Architecture**: Implemented a dictionary-based approach instead of RAG for efficient classification of allowed/prohibited foods
-- **Tools Selection**: Chose Solar API over alternatives for its superior context handling and faster response time
-- **Contribution**: Led as PM (100%), developed the core AI conversation system using Solar API (80%), designed system architecture (70%)
-
-#### 📊 Puripuri - AI Education Platform [[GitHub]](https://github.com/G-Hong/PuriPuri)
-- Founded an AI-powered educational platform that analyzes student work to provide personalized learning hints
-- Implemented systems for collecting and analyzing educational data with continuous improvement via feedback loops
-- **Technical Challenge**: Overcame content development bottlenecks by creating modular, reusable learning components
-- **Architecture**: Created a three-tier system (student interface → analysis engine → feedback generation) using computer vision to process handwritten student work
-- **Tools Selection**: Selected PyTorch for computer vision components due to its flexibility with custom architectures
-- **Contribution**: Handled business operations (70%), technical project management (30%), and investor relations (70%)
-
-#### 💡 Custometic - AI Beauty Recommendation
-- Conceptualized an AI system analyzing facial features to recommend personalized makeup techniques
-- Created feature extraction system using Stasm algorithm and AI-based face modeling
-- **Technical Challenge**: Balanced computational efficiency with recommendation quality for real-time analysis
-- **Architecture**: Implemented a two-stage pipeline (feature extraction → personalized recommendation) optimized for mobile devices
-- **Contribution**: Led concept development (90%) and defined technical requirements (70%), collaborating with co-researcher on implementation details
-
-#### 🔥 Fuel Pellet Production Service
-- Developed renewable energy solution using food waste and kenaf for solid fuel pellets
-- Patent application submitted for manufacturing method combining kenaf's growth characteristics with food waste processing
-- **Technical Challenge**: Optimized composition ratios for maximum energy output while maintaining environmental benefits
-- **Contribution**: Led product development (70%), business planning (80%), and successful grant applications (90%)
-
-## 🏆 Awards & Recognitions
+## 🏆 Awards & Recognition
 
 <div align="center">
 
 | Award | Organization | Year |
 |-------|-------------|------|
-| Excellent Paper Award for "PCV: PoS for Content Validation" | Korean Blockchain Society | 2022 |
-| 4th Place | Social Problem-Solving Business Idea Competition | 2022 |
-| Selected for 2nd cohort (KRW 20M support) | Science Belt Startup Growth Support Program | 2022 |
-| KRW 6M prize | Carbon Industry Ecosystem Formation Project | 2022 |
-| KRW 2M prize | LINC 3.0 Startup Club | 2022 |
-| Encouragement Prize | Opus Startup School IR Pitch Competition | 2024 |
-| Grand Prize, DMZConet Chairman Award (KRW 1M) | DIC Startup Competition | 2024 |
+| Excellent Paper Award | Korean Blockchain Society | 2022 |
+| Grand Prize (KRW 1M) | DIC Startup Competition | 2024 |
+| Selected for 2nd cohort (KRW 20M) | Science Belt Startup Growth Program | 2022 |
+| KRW 6M Prize | Carbon Industry Ecosystem Formation | 2022 |
 
 </div>
 
-## 🌱 Future Goals
+## 📚 Research Experience
 
-I focus on developing deep technical expertise in AI systems for autonomous applications. After pursuing advanced education in MLOps, reinforcement learning, and robotics systems, I aim to contribute to **next-generation operating systems for autonomous agents** and establish **best practices for MLOps in robotics**.
+### Lab Research (Apr 2022 - Feb 2025)
+- PCV: Proof-of-Stake for Content Validation
+- AI Framework Security Research
+- AI Security Lifecycle Development
 
-My long-term goal is leading development of AI architectures that combine robust operational reliability with intelligent decision-making, solving meaningful problems through ventures built on strong technical foundations.
+### Current Focus (Oct 2025 - Present)
+- Real-Time Operating Systems for Robotics
+- VLA Model Optimization on Edge Devices
+- Hardware-Software Co-Design (CODES)
 
-## 💭 Philosophy on Intelligence & Systems
+## 🌱 Future Direction
 
-I see strong parallels between biological intelligence, reinforcement learning, and system design:
+I'm building deep technical expertise in systems software for autonomous applications. My path includes:
 
-- **Operating system efficiency** is as important as raw computational power
-- **Robust systems** align individual and collective benefits harmoniously  
-- **Intelligent systems** fundamentally operate through reward mechanisms
-- **True intelligence** emerges from reward-seeking, continuous learning, and environmental feedback
+**Near-term (2026-2027)**: MSCS program focusing on operating systems, embedded systems, and real-time computing. Securing internships in systems software or embedded engineering.
 
-This unified view guides my approach to creating autonomous systems that are intelligent, reliable, and scalable.
+**Long-term**: Contributing to next-generation operating systems for autonomous agents and establishing best practices for deploying AI on resource-constrained hardware. Building ventures on strong technical foundations that solve real problems.
+
+## 💭 My Approach
+
+I see parallels across biological intelligence, system design, and AI:
+
+- **System-level thinking**: OS efficiency matters as much as raw computational power
+- **Hardware awareness**: Software must be designed with hardware constraints in mind
+- **Real-world deployment**: Models are valuable only when they run reliably in production
+- **Interdisciplinary mindset**: Best solutions come from understanding multiple layers of the stack
+
+This perspective guides my work in creating autonomous systems that are intelligent, reliable, and practical.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jinyhong&style=flat-square&color=blue" alt=""/>
