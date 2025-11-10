@@ -21,9 +21,9 @@
 
 I build the 'brains' of intelligent machines. My goal is to become a **systems software engineer** specializing in **embedded systems**, **operating systems (OS/RTOS)**, and **performance optimization** for edge devices like **NVIDIA Jetson**.
 
-I'm currently a Research Assistant at PyBrain, where I'm developing a robot that grasps objects using natural language commands through VLA (Vision-Language-Action) models. In this work, I tackle **latency and efficiency challenges at the system level**—implementing **Real-Time ROS** and optimizing the Linux kernel to make heavy AI models run effectively on resource-constrained hardware.
+I'm currently a Research Assistant at PyBrain, developing a robot that grasps objects using natural language commands through VLA (Vision-Language-Action) models. Working with these heavy AI models on resource-constrained hardware exposed me to critical **latency and efficiency challenges**—problems that can't be solved at the application level alone. This experience revealed that the real bottleneck lies in the **system layer**: how the OS schedules tasks, how hardware resources are managed, and how real-time constraints are guaranteed.
 
-To deepen my expertise in operating systems and **hardware-software co-design (CODES)**, I'm preparing for an MSCS program starting Fall 2026. I'm actively seeking internship opportunities in systems software or embedded engineering for 2027.
+These challenges drive my decision to pursue an MSCS program starting Fall 2026, where I'll focus on operating systems and **hardware-software co-design (CODES)**. I'm actively seeking internship opportunities in systems software or embedded engineering for 2027.
 
 ## 🛠️ Tech Stack
 
@@ -55,19 +55,19 @@ To deepen my expertise in operating systems and **hardware-software co-design (C
 
 ## 🔥 Core Focus: The Robot Brain Stack
 
-I approach robotics challenges through three interconnected layers, with my expertise focused on making AI models run efficiently on real hardware:
+I approach robotics challenges through three interconnected layers. My current work at PyBrain (Layer 3) revealed that true optimization requires mastery of the lower layers—which is why I'm pursuing graduate studies:
 
-### **LAYER 1: Foundation**
+### **LAYER 1: Foundation (Graduate Study Focus)**
 #### 🧠 Operating Systems & RTOS
-System performance starts at the OS level. I work on next-generation OS design that efficiently manages AI computational resources and ensures real-time reliability for robotics applications. This includes Linux kernel optimization, RTOS implementation, and scheduler tuning.
+System performance starts at the OS level. I'm preparing to specialize in OS design that efficiently manages AI computational resources and ensures real-time reliability for robotics applications. This includes Linux kernel optimization, RTOS implementation, and scheduler tuning—the foundation that will enable everything else.
 
-### **LAYER 2: Bridge**
+### **LAYER 2: Bridge (Research Interest)**
 #### ⚙️ Hardware-Software Co-Design (CODES)
 Great software needs deep hardware understanding. I approach system optimization through CODES—designing software (OS) and hardware (like Jetson) to work together as one integrated system, not separate components.
 
-### **LAYER 3: Application**
+### **LAYER 3: Application (Current Work)**
 #### 🚀 AI Models & Deployment
-The end goal is deploying AI models—VLA, reinforcement learning, MLOps—in production. My system-level expertise (Layers 1 & 2) enables running these heavy models on robots with low latency and high reliability.
+I'm currently deploying VLA models, reinforcement learning, and MLOps in production robotics. This hands-on experience with real performance bottlenecks motivates my focus on Layers 1 and 2—because that's where the solutions lie.
 
 ## 🌟 Current Work & Research
 
