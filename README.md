@@ -21,9 +21,9 @@
 
 I build the 'brains' of intelligent machines. My goal is to become a **systems software engineer** specializing in **embedded systems**, **operating systems (OS/RTOS)**, and **performance optimization** for edge devices like **NVIDIA Jetson**.
 
-I'm currently a Research Assistant at PyBrain, developing a robot that grasps objects using natural language commands through VLA (Vision-Language-Action) models. Working with these heavy AI models on resource-constrained hardware exposed me to critical **latency and efficiency challenges**—problems that can't be solved at the application level alone. This experience revealed that the real bottleneck lies in the **system layer**: how the OS schedules tasks, how hardware resources are managed, and how real-time constraints are guaranteed.
+I'm currently a Independent Researcher at PyBrain, developing a robot that grasps objects using natural language commands through VLA (Vision-Language-Action) models. Working with these heavy AI models on resource-constrained hardware exposed me to critical **latency and efficiency challenges**—problems that can't be solved at the application level alone.
 
-These challenges drive my decision to pursue an MSCS program starting Fall 2026, where I'll focus on operating systems and **hardware-software co-design (CODES)**. I'm actively seeking internship opportunities in systems software or embedded engineering for 2027.
+I'm actively seeking internship opportunities in systems software or embedded engineering for 2027.
 
 ## 🛠️ Tech Stack
 
@@ -55,37 +55,19 @@ These challenges drive my decision to pursue an MSCS program starting Fall 2026,
 
 ## 🔥 Core Focus: The Robot Brain Stack
 
-I approach robotics challenges through three interconnected layers. My current work at PyBrain (Layer 3) revealed that true optimization requires mastery of the lower layers—which is why I'm pursuing graduate studies:
-
-### **LAYER 1: Foundation (Graduate Study Focus)**
-#### 🧠 Operating Systems & RTOS
+### 🧠 Operating Systems & RTOS
 System performance starts at the OS level. I'm preparing to specialize in OS design that efficiently manages AI computational resources and ensures real-time reliability for robotics applications. This includes Linux kernel optimization, RTOS implementation, and scheduler tuning—the foundation that will enable everything else.
 
-### **LAYER 2: Bridge (Research Interest)**
-#### ⚙️ Hardware-Software Co-Design (CODES)
+### ⚙️ Hardware-Software Co-Design (CODES)
 Great software needs deep hardware understanding. I approach system optimization through CODES—designing software (OS) and hardware (like Jetson) to work together as one integrated system, not separate components.
 
-### **LAYER 3: Application (Current Work)**
-#### 🚀 AI Models & Deployment
-I'm currently deploying VLA models, reinforcement learning, and MLOps in production robotics. This hands-on experience with real performance bottlenecks motivates my focus on Layers 1 and 2—because that's where the solutions lie.
-
-## 🌟 Current Work & Research
-
-### 🤖 PyBrain - Research Assistant (Oct 2025 - Present)
-Developing a mobile manipulator that grasps objects using natural language commands via VLA models. This work exposed me to critical performance challenges in deploying AI on edge devices:
-- Analyzing latency issues when running VLA models on resource-constrained hardware (NVIDIA Jetson)
-- Studying the performance characteristics of ROS 2 for real-time robotic control
-- Benchmarking AI inference pipelines to identify system-level bottlenecks
-- This experience directly shaped my decision to pursue graduate studies in operating systems and embedded systems
+### 🚀 AI Models & Deployment
+I'm currently deploying VLA models and reinforcement learning in production robotics. This hands-on experience with real performance bottlenecks motivates my focus on Real-Time ROS and CODES—because that's where the solutions lie.
 
 ## 🔍 Selected Projects
 
 ### 🤖 VLA-Based Robotic Grasping System (Oct 2025 - Present)
-At PyBrain, I'm developing a robot that grasps objects using natural language commands through VLA models. This hands-on experience revealed critical system-level bottlenecks that motivated my interest in OS and RTOS.
-- **Current Challenge**: The VLA model creates significant latency (2-3 seconds) on NVIDIA Jetson, making real-time object grasping unreliable
-- **What I'm Learning**: Profiling system performance, identifying bottlenecks in the AI inference pipeline, understanding hardware constraints
-- **Next Steps**: Planning to implement Real-Time ROS and explore Linux kernel optimization techniques to reduce latency
-- **Why This Matters**: This real-world problem drives my graduate school focus on operating systems and embedded systems for robotics
+At PyBrain, I'm developing a robot that grasps objects using natural language commands through VLA models.
 - **Tools**: Python, ROS 2, NVIDIA Jetson, PyTorch, Performance Analysis
 
 ### 📝 PCV: PoS for Content Validation in Web3.0 [[GitHub]](https://github.com/G-Hong/PCV-PoS-for-Content-Validation-in-Web3.0-Platform)
