@@ -66,7 +66,7 @@ I'm currently deploying VLA models and reinforcement learning in production robo
 
 ## 🔍 Selected Projects
 
-### 🤖 VLA-Based Robotic Grasping System (Oct 2025 - Present)
+### 🤖 VLA-Based Robotic Grasping System (Oct 2025 - Present) [[GitHub]]([https://github.com/G-Hong/PCV-PoS-for-Content-Validation-in-Web3.0-Platform](https://github.com/G-Hong/Zip4-grasping-butler-bot))
 At PyBrain, I'm developing a robot that grasps objects using natural language commands through VLA models.
 - **Tools**: Python, ROS 2, NVIDIA Jetson, PyTorch, Performance Analysis
 
