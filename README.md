@@ -66,6 +66,14 @@ I'm currently deploying VLA models and reinforcement learning in production robo
 
 ## 🔍 Selected Projects
 
+### 🤖 CBM-VLA (Concept Bottleneck Model VLA) (Oct 2025 - Present) [[GitHub]](https://github.com/G-Hong/Zip4-grasping-butler-bot)
+With prof. Eungjoo Lee, I am developing an efficient VLA model designed to optimize computing resources and minimize hallucinations through explicit concept bottlenecks. My role is the Lead Systems Architect for the Positional Alignment Manager, a specialized middleware that orchestrates action concepts and system resources.
+- Real-time Task Scheduling: Designing the Positional Alignment Manager to bridge the gap between high-level reasoning tokens (action concepts) and low-level robot control commands.
+- Asynchronous Inference Stack: Engineering an asynchronous control loop that decouples action prediction from execution, effectively reducing latency and ensuring continuous, fluid robot motion.
+- Preemptive Error Recovery: Developing an Error Monitor to detect physical anomalies (e.g., gripper slips) and trigger immediate replanning by feeding error states back to the VLM.
+- Adaptive Resource Allocation: Formulating an adaptive resource allocation logic to dynamically scale sensor monitoring rates based on task criticality.
+- **Tools**: Python, C, ROS 2, PyTorch, LeRobot, SO-ARM 101
+
 ### 🤖 VLA-Based Robotic Grasping System (Oct 2025 - Present) [[GitHub]](https://github.com/G-Hong/Zip4-grasping-butler-bot)
 At PyBrain, I'm developing a robot that grasps objects using natural language commands through VLA models.
 - **Tools**: Python, ROS 2, NVIDIA Jetson, PyTorch, Performance Analysis
