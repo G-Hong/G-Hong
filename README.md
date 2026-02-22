@@ -153,7 +153,9 @@ This perspective guides my work in creating autonomous systems that are intellig
 <a href="mailto:ghong@nexodim.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gina-hong-414092269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 [![TIL Badge](https://img.shields.io/badge/TIL-Today_I_Learned-22314E?style=for-the-badge&logo=github)](https://github.com/G-Hong/Today-I-Learned)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
 </div>
