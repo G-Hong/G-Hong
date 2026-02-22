@@ -56,10 +56,10 @@ I'm actively seeking internship opportunities in systems software or embedded en
 ## 🔥 Core Focus: The Robot Brain Stack
 
 ### 🧠 Operating Systems & RTOS
-System performance starts at the OS level. I'm preparing to specialize in OS design that efficiently manages AI computational resources and ensures real-time reliability for robotics applications. This includes Linux kernel optimization, RTOS implementation, and scheduler tuning—the foundation that will enable everything else.
+System performance starts at the OS level. I focus on **Kernel-level optimization** and **Interrupt handling** to ensure minimal jitter in robotic actuators. My goal is to implement safe and predictable **RTOS-based control loops** for autonomous agents.
 
 ### ⚙️ Hardware-Software Co-Design (CODES)
-Great software needs deep hardware understanding. I approach system optimization through CODES—designing software (OS) and hardware (like Jetson) to work together as one integrated system, not separate components.
+Great software needs deep hardware understanding. I leverage **NVIDIA Jetson's architecture (CUDA/TensorRT)** to optimize VLA model inference, balancing computational throughput with real-time constraints.
 
 ### 🚀 AI Models & Deployment
 I'm currently deploying VLA models and reinforcement learning in production robotics. This hands-on experience with real performance bottlenecks motivates my focus on Real-Time ROS and CODES—because that's where the solutions lie.
@@ -68,8 +68,8 @@ I'm currently deploying VLA models and reinforcement learning in production robo
 
 ### 🤖 CBM-VLA (Concept Bottleneck Model VLA) (Oct 2025 - Present) [[GitHub]](https://github.com/G-Hong/Zip4-grasping-butler-bot)
 With prof. Eungjoo Lee, I am developing an efficient VLA model designed to optimize computing resources and minimize hallucinations through explicit concept bottlenecks. My role is the Lead Systems Architect for the Positional Alignment Manager, a specialized middleware that orchestrates action concepts and system resources.
-- Real-time Task Scheduling: Designing the Positional Alignment Manager to bridge the gap between high-level reasoning tokens (action concepts) and low-level robot control commands.
-- Asynchronous Inference Stack: Engineering an asynchronous control loop that decouples action prediction from execution, effectively reducing latency and ensuring continuous, fluid robot motion.
+- Priority-based Task Scheduling for Deterministic Robot Control: Designing the Positional Alignment Manager to bridge the gap between high-level reasoning tokens (action concepts) and low-level robot control commands.
+- Multi-threaded Asynchronous Inference Pipeline: Engineering an asynchronous control loop that decouples action prediction from execution, effectively reducing latency and ensuring continuous, fluid robot motion.
 - Preemptive Error Recovery: Developing an Error Monitor to detect physical anomalies (e.g., gripper slips) and trigger immediate replanning by feeding error states back to the VLM.
 - Adaptive Resource Allocation: Formulating an adaptive resource allocation logic to dynamically scale sensor monitoring rates based on task criticality.
 - **Tools**: Python, C, ROS 2, PyTorch, LeRobot, SO-ARM 101
@@ -130,7 +130,7 @@ Founded an AI-powered educational platform analyzing student work to provide per
 
 I'm building deep technical expertise in systems software for autonomous applications. My path includes:
 
-**Near-term (2026-2027)**: MSCS program focusing on operating systems, embedded systems, and real-time computing. Securing internships in systems software or embedded engineering.
+**Near-term (2025-2027)**: Deepening expertise in RTOS and Linux Kernel optimization to bridge the gap between high-level VLAs and low-level robot control. Focusing on Deterministic Latency in robotic middleware. MSCS program focusing on operating systems, embedded systems, and real-time computing. Securing internships in systems software or embedded engineering.
 
 **Long-term**: Contributing to next-generation operating systems for autonomous agents and establishing best practices for deploying AI on resource-constrained hardware. Building ventures on strong technical foundations that solve real problems.
 
@@ -153,7 +153,7 @@ This perspective guides my work in creating autonomous systems that are intellig
 <a href="mailto:ghong@nexodim.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gina-hong-414092269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
+[![TIL Badge](https://img.shields.io/badge/TIL-Today_I_Learned-22314E?style=for-the-badge&logo=github)](https://github.com/G-Hong/Today-I-Learned)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
 </div>
