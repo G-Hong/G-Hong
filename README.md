@@ -11,7 +11,7 @@
   [![Email Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ghong@nexodim.com)
 
   <div style="text-align: center; width: 100%;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=500&lines=Operating+Systems+%7C+RTOS;Systems+Software+for+Robotics;Embedded+Systems+%26+CODES;Real-Time+Performance+Optimization&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=600&lines=Operating+Systems+%7C+RTOS;Systems+Software+for+Robotics;Embedded+Systems+%26+CODES;Real-Time+Optimization&center=true" alt="Typing SVG" />
   </div>
 </div>
 
