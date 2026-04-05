@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gina%20Hong&fontSize=90&fontAlign=50&fontAlignY=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gina%20Hong&fontSize=90&fontAlign=50&)
 
   ### *"Building the Operating Systems for Intelligent Machines"*
   
